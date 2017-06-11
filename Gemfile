@@ -38,6 +38,7 @@ gem 'aasm'
 gem "intercom-rails"
 gem 'carrierwave-qiniu'
 gem 'qiniu-rs'
+gem 'figaro'
 
 gem 'mini_magick'
 gem 'letter_opener', group: :development
